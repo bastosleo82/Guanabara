@@ -1,2 +1,2 @@
 # Guanabara
-repositorio de conteudo dos estudos do curso em video
+repositório de conteudo dos estudos do curso em video
